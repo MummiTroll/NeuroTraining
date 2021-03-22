@@ -1,0 +1,16 @@
+D:\VS\NeuroTraining\bin\Debug\NeuroTraining.exe.config
+D:\VS\NeuroTraining\bin\Debug\NeuroTraining.exe
+D:\VS\NeuroTraining\bin\Debug\NeuroTraining.pdb
+D:\VS\NeuroTraining\obj\Debug\MainWindow.g.cs
+D:\VS\NeuroTraining\obj\Debug\App.g.cs
+D:\VS\NeuroTraining\obj\Debug\NeuroTraining_MarkupCompile.cache
+D:\VS\NeuroTraining\obj\Debug\NeuroTraining_MarkupCompile.lref
+D:\VS\NeuroTraining\obj\Debug\MainWindow.baml
+D:\VS\NeuroTraining\obj\Debug\NeuroTraining.g.resources
+D:\VS\NeuroTraining\obj\Debug\NeuroTraining.Properties.Resources.resources
+D:\VS\NeuroTraining\obj\Debug\NeuroTraining.csproj.GenerateResource.cache
+D:\VS\NeuroTraining\obj\Debug\NeuroTraining.csproj.CoreCompileInputs.cache
+D:\VS\NeuroTraining\obj\Debug\NeuroTraining.exe
+D:\VS\NeuroTraining\obj\Debug\NeuroTraining.pdb
+D:\VS\NeuroTraining\obj\Debug\App.baml
+D:\VS\NeuroTraining\obj\Debug\NeuroTraining.csprojAssemblyReference.cache
